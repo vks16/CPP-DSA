@@ -1,0 +1,6 @@
+main.cpp
+*.out
+*.o
+*.gch
+*.exe
+.vscode/*
